@@ -1,5 +1,4 @@
 
-Sure! Below is a README file that includes the emoji feature.
 
 Canvas Image Text Overlay
 This project allows you to overlay text and emojis on an image with customized styling, including background color and text shadow. It uses HTML5 Canvas for rendering and JavaScript for interactivity.
